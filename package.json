@@ -1,0 +1,22 @@
+{
+  "name": "roulette-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsnd --respawn ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioLudwig/roulette-simulator.git"
+  },
+  "author": "Mauricio Ludwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioLudwig/roulette-simulator/issues"
+  },
+  "homepage": "https://github.com/MauricioLudwig/roulette-simulator#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
